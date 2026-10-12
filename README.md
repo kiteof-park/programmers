@@ -1,6 +1,6 @@
 <div align="center">
 
-# pragrammers codekata
+# programmers codekata
 
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
@@ -21,16 +21,17 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ---
 
 <h2 align="center">About</h2>
-
-<p align="center">
+<table align="center">
+    
+    
+<tr>
+<td>
+    
+<p align="left">
 ● 문제 이름을 클릭하면 해당 문제 페이지로 이동합니다.<br>
 ● 난이도별로 문제 목록을 접어서 확인할 수 있습니다.<br>
 ● 풀이 코드는 문제를 해결할 때마다 계속 추가합니다.
 </p>
-
-<table align="center">
-<tr>
-<td>
 
 <pre>
 📂 /root
@@ -39,6 +40,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
     ├── README.md
     └── REVIEW.md
 </pre>
+
+<p align="left">
+● <code>problem.java</code> : 문제풀이 소스코드 <br>
+● <code>README.md</code> : 문제 설명, 성능 요약, 채점 결과<br>
+● <code>REVIEW.md</code> : 야르한 문제풀이 아카이빙, 문제풀이 해설 
+</p>
 
 </td>
 </tr>
