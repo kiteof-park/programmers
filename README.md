@@ -108,6 +108,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 </td>
 <td width="58%" valign="top">
 <h2 align="center"> Problem List</h2>
+<p align="center"><a href="REVIEW_INDEX.md">📝 리뷰가 있는 문제 모아보기</a></p>
 <details>
 <summary><b>🩷 Level 1 · 30 Problems</b></summary>
 <br>
